@@ -1,2 +1,2 @@
 # 3D-Printo
-3D Printing Comapny WordPress Website
+3D Printing Company WordPress Website
